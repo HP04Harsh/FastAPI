@@ -24,7 +24,7 @@ This repository is organized by specific features and concepts:
 
 ### 1\. Clone the repository
 ```bash
-git clone [https://github.com/HP04Harsh/FastAPI.git](https://github.com/HP04Harsh/FastAPI.git)
+git clone https://github.com/HP04Harsh/FastAPI.git
 cd FastAPI
 ```
 
