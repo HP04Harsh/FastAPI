@@ -1,7 +1,7 @@
 <img width="1024" height="369" alt="image" src="https://github.com/user-attachments/assets/64ae23c3-2e99-497b-9049-8a6b2222cc2c" />
 
 
-FastAPI Mastery: From Fundamentals to Advanced Patterns 2026🚀
+FastAPI Mastery: From Fundamentals to Advanced Patterns 2026-27🚀
 ==========================================================
 
 Welcome to my **FastAPI** learning repository! This project is a curated collection of implementations covering everything from basic routing to advanced security and templating patterns. It serves as a practical reference for building robust, high-performance Python web APIs.
